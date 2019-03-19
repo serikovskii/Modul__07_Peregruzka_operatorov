@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\HomeWorkTanks\HomeWorkTanks\obj\Debug\HomeWorkTanks.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\HomeWorkTanks\HomeWorkTanks\obj\Debug\HomeWorkTanks.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\HomeWorkTanks\HomeWorkTanks\bin\Debug\HomeWorkTanks.exe.config
+C:\Users\azat\source\repos\HomeWorkTanks\HomeWorkTanks\bin\Debug\HomeWorkTanks.exe
+C:\Users\azat\source\repos\HomeWorkTanks\HomeWorkTanks\bin\Debug\HomeWorkTanks.pdb
+C:\Users\azat\source\repos\HomeWorkTanks\HomeWorkTanks\obj\Debug\HomeWorkTanks.exe
+C:\Users\azat\source\repos\HomeWorkTanks\HomeWorkTanks\obj\Debug\HomeWorkTanks.pdb
