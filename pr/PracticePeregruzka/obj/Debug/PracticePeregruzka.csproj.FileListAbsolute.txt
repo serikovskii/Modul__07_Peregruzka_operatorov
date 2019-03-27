@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\PracticePeregruzka\PracticePeregruzka\bin\Debug\PracticePeregruzka.exe.config
+C:\Users\azat\source\repos\PracticePeregruzka\PracticePeregruzka\bin\Debug\PracticePeregruzka.exe
+C:\Users\azat\source\repos\PracticePeregruzka\PracticePeregruzka\bin\Debug\PracticePeregruzka.pdb
+C:\Users\azat\source\repos\PracticePeregruzka\PracticePeregruzka\obj\Debug\PracticePeregruzka.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\PracticePeregruzka\PracticePeregruzka\obj\Debug\PracticePeregruzka.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\PracticePeregruzka\PracticePeregruzka\obj\Debug\PracticePeregruzka.exe
+C:\Users\azat\source\repos\PracticePeregruzka\PracticePeregruzka\obj\Debug\PracticePeregruzka.pdb
